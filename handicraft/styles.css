@@ -1,0 +1,165 @@
+/*  Arrival Section Start */
+.arrival-section{
+    background-image:url(img/arrival/arrival_bg.jpg) ;
+}
+.price{
+    font-size: larger !important;
+    font-weight: 700 !important;
+}
+.price-cart-container i:hover{
+    color: #df4759 !important;
+}
+.price-cart-container .btn:hover{
+    background-color: transparent !important;
+    border: 1px soild #df4759 !important;
+}
+.heading-container{
+    font-size:xx-large !important;
+    font-weight: 700 !important;
+}
+.layout{
+    border: hidden !important;
+}
+/*  Arrival Section End */
+
+/* Choose Section Start */
+/* @media screen and (min-width: 600px) {
+    .choose-accordion{
+     width: 20em !important;   
+    }
+  } */
+.accordion-item{
+    background-color: transparent !important;
+}
+.choose{
+    background-image:url(img/choose/choose-bg.jpeg);
+    height: 100vh !important;
+    background-repeat: no-repeat;
+    background-size:cover !important;
+
+}
+.choose-heading{
+    font-size: 40px !important;
+    font-weight: 500 !important;
+    
+}
+.accordion-button.collapsed::after {
+  color: white !important;
+  background-image: url(img/choose/addIcon.svg) !important;
+}
+/* Choose Section End */
+
+/* Expert Section Strat */
+.expert-icons{
+    color: inherit !important;
+    text-decoration: none !important;
+}
+.expert-title{
+    font-size: 2rem;
+    font-weight: 700;
+}
+.card-icon{
+    size: 1rem !important;
+}
+/*Expert Section End*/
+
+/*Customer Section Start*/
+.customer-section{
+    background-image:url(img/customer/customer_bg.jpg) ;
+    height: auto !important;
+    background-repeat: no-repeat;
+    /* filter: brightness(50%); */
+    background-size:cover !important;
+}
+.customer-image{
+    width: 5rem !important;
+}
+.customer-card{
+    background-color: transparent;
+}
+.customer-text{
+    text-align: center !important;
+}
+.customer-heading{
+    font-size: 3rem !important;
+    font-weight: 600 !important;
+}
+
+.customer-title{
+    font-size: 2.5rem !important;
+    font-weight: 700 !important;
+}
+/* Customer Section End */
+/* Blog Section Start */
+/* .blog-card{
+    background-color: #faf6f6 !important;
+} */
+.card-body :any-link{
+    text-decoration: none !important;
+}
+.card-body a:hover{
+    color: #df4759 !important;
+}
+.icon{
+    color: #df4759 !important;
+}
+.read-more{
+    font-weight: 300 !important;
+}
+.card-title{
+    font-weight: 600 !important;
+    font-size: larger !important;
+}
+
+.read-more{
+    font-weight: 600 !important;
+    font-size:medium !important;
+}
+.card-title-heading{
+    font-size:xx-large !important;
+    font-weight:700 !important;
+}
+.card-date{
+    font-size: larger !important;
+    font-weight: 600 !important;
+}
+.post{
+    font-size:large !important;
+    font-weight: 500 !important;
+}
+.blog-title{
+    font-size:2rem !important;
+    font-weight: 500 !important;
+}
+/* Blog Section End */
+
+/* Client-Section Start*/
+.client-section{
+    background-color: #df4759;
+    height: 50vh;
+}
+.client-title{
+    font-size:2rem !important;
+    font-weight: 800 !important;
+}
+/* Client-Section End */
+/* footer sectiom start */
+.links :any-link{
+    text-decoration: none !important;
+}
+.support-icons{
+    color:#df4759 !important;
+}
+.support-links a:hover{
+    color: #df4759 !important;
+}
+.link-title{
+    font-size: 1.5rem !important;
+    font-weight: 600 !important;
+}
+.footer-icons{
+    color: inherit !important;
+}
+
+/* Footer section end */
+
